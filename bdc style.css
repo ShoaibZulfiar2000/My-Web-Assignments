@@ -1,0 +1,19 @@
+
+*{
+    margin: 5px;
+    box-sizing: border-box;
+}
+.header-box{
+    border: solid rgb(46, 105, 156);
+    background-color: rgb(167, 179, 190);
+    padding: 2px;
+}
+.nav{
+    border: solid rgb(46, 105, 156);
+    background-color: rgb(167, 179, 190);
+    padding: 2px;;
+}
+.naming {
+    overlay: ;
+    transform: skew(box-sizing);
+}
